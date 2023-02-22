@@ -2,7 +2,7 @@ body
 {
     color: blueviolet;
     text-align: center;
-    font-family: "Arial";
+    font-family: Courier;
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -11,9 +11,9 @@ body
 #container
 {
     width: 70%;
-    padding: lem;
+    padding: 1em;
     text-align: left;
-    border: lpx solid red;
+    border: 2px solid yellow;
     margin: 0 auto;
 }
 
